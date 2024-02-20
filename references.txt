@@ -1,0 +1,13 @@
+https://github.com/otavio-s-s/data_science/blob/master/Credit%20Card%20Fraud%20Detection.ipynb
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
+https://www.kaggle.com/code/alihasnainch/credit-card-fraud-detection
+
+https://www.kaggle.com/code/ankit1743/credit-card-fraud-xgboost
+
+https://www.kaggle.com/code/abdoghazala/credit-card-fraud-detection-isolationforest
+
+https://www.kaggle.com/datasets/kartik2112/fraud-detection/code
+
+https://www.kaggle.com/code/karimasobhi/fraud-detection-using-ml
