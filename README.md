@@ -12,6 +12,7 @@ Shirish Thapaliya
 Sweekrit Acharya
 
 **Introduction**
+
 Credit card fraud detection is the process of identifying and preventing unauthorized or fraudulent transactions made using credit cards, typically employing algorithms and machine learning models to analyze patterns and anomalies in transaction data
 
 **Objectives of the Project**
